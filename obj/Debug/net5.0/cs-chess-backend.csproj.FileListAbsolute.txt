@@ -1,0 +1,16 @@
+/home/jaqq/dev/cs-chess-backend/bin/Debug/net5.0/cs-chess-backend
+/home/jaqq/dev/cs-chess-backend/bin/Debug/net5.0/cs-chess-backend.deps.json
+/home/jaqq/dev/cs-chess-backend/bin/Debug/net5.0/cs-chess-backend.runtimeconfig.json
+/home/jaqq/dev/cs-chess-backend/bin/Debug/net5.0/cs-chess-backend.runtimeconfig.dev.json
+/home/jaqq/dev/cs-chess-backend/bin/Debug/net5.0/cs-chess-backend.dll
+/home/jaqq/dev/cs-chess-backend/bin/Debug/net5.0/ref/cs-chess-backend.dll
+/home/jaqq/dev/cs-chess-backend/bin/Debug/net5.0/cs-chess-backend.pdb
+/home/jaqq/dev/cs-chess-backend/obj/Debug/net5.0/cs-chess-backend.csproj.AssemblyReference.cache
+/home/jaqq/dev/cs-chess-backend/obj/Debug/net5.0/cs-chess-backend.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaqq/dev/cs-chess-backend/obj/Debug/net5.0/cs-chess-backend.AssemblyInfoInputs.cache
+/home/jaqq/dev/cs-chess-backend/obj/Debug/net5.0/cs-chess-backend.AssemblyInfo.cs
+/home/jaqq/dev/cs-chess-backend/obj/Debug/net5.0/cs-chess-backend.csproj.CoreCompileInputs.cache
+/home/jaqq/dev/cs-chess-backend/obj/Debug/net5.0/cs-chess-backend.dll
+/home/jaqq/dev/cs-chess-backend/obj/Debug/net5.0/ref/cs-chess-backend.dll
+/home/jaqq/dev/cs-chess-backend/obj/Debug/net5.0/cs-chess-backend.pdb
+/home/jaqq/dev/cs-chess-backend/obj/Debug/net5.0/cs-chess-backend.genruntimeconfig.cache
