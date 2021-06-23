@@ -10,13 +10,13 @@ namespace cs_chess_backend {
         public Dictionary<Tuple<int, int>, Piece> pieces;
 
         public bool addPiece(Piece p) {
-            if (pieces.ContainsKey(p.position))
+            if (pieces.ContainsKey((p.x, p.y).ToTuple()))
                 return false;
-            pieces[p.position] = p;
+            pieces[(p.x, p.y).ToTuple()] = p;
             return true;
         }
 
-        public bool tryCastle(/* King */) {
+        public bool tryCastle(King k) {
             return false;
         }
 

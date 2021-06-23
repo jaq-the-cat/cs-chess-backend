@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jaqq/dev/cs-chess-backend/cs-chess-backend.csproj": {}
+    "/home/jaqi/cs-chess-backend/cs-chess-backend.csproj": {}
   },
   "projects": {
-    "/home/jaqq/dev/cs-chess-backend/cs-chess-backend.csproj": {
+    "/home/jaqi/cs-chess-backend/cs-chess-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jaqq/dev/cs-chess-backend/cs-chess-backend.csproj",
+        "projectUniqueName": "/home/jaqi/cs-chess-backend/cs-chess-backend.csproj",
         "projectName": "cs-chess-backend",
-        "projectPath": "/home/jaqq/dev/cs-chess-backend/cs-chess-backend.csproj",
-        "packagesPath": "/home/jaqq/.nuget/packages/",
-        "outputPath": "/home/jaqq/dev/cs-chess-backend/obj/",
+        "projectPath": "/home/jaqi/cs-chess-backend/cs-chess-backend.csproj",
+        "packagesPath": "/home/jaqi/.nuget/packages/",
+        "outputPath": "/home/jaqi/cs-chess-backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jaqq/.nuget/NuGet/NuGet.Config"
+          "/home/jaqi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
